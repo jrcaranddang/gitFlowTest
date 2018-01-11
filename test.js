@@ -1,18 +1,6 @@
+console.log('hello testFeature');
 
 
-console.log('hello sunshine 2');
+console.log("Hi I'm gonna make an error");
 
-console.log('hello test change 2');
-
-console.log('hello Shaun');
-
-console.log('hello test change 2234');
-
-
-console.log('hello johnny james');
-console.log('hello johnny');
-
-console.log('hello test change 2');
-
-console.log('hello test change 3');
-
+console.log("Don't keep this 2");
